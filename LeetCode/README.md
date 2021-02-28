@@ -1,1 +1,1 @@
-TwoSum -> https://leetcode.com/problems/add-two-numbers/submissions/
+TwoSum(Medium) -> https://leetcode.com/problems/add-two-numbers/submissions/
