@@ -54,6 +54,4 @@ int main()
 
     cout<<isPermute(s1,s2);
     return 0;
-
-
 }
