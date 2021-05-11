@@ -13,3 +13,5 @@
 #### Range Sum Query - Immutable -> https://leetcode.com/problems/range-sum-query-immutable/
 
 #### Is Subsequence -> https://leetcode.com/problems/is-subsequence/
+
+#### Merged Intervals -> https://leetcode.com/problems/merge-intervals/
