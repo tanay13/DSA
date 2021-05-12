@@ -1,1 +1,1 @@
-DSA Question Solved by me across various platforms
+DSA Questions Solved by me across various platforms
