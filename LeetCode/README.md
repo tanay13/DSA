@@ -19,3 +19,5 @@
 #### Target Sum (DP) -> https://leetcode.com/problems/target-sum/
 
 #### first Unique character -> https://leetcode.com/problems/first-unique-character-in-a-string
+
+#### Shuffle an array -> https://leetcode.com/problems/shuffle-an-array
