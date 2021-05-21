@@ -7,3 +7,5 @@
 #### subset sum problem - Output whether it is possible to find subset with a given sum
 
 #### Rod Cutting problem(Unbounded Knapsack) - https://practice.geeksforgeeks.org/problems/rod-cutting0840/1#
+
+#### Minimum Square - https://practice.geeksforgeeks.org/problems/get-minimum-squares0538/1#
