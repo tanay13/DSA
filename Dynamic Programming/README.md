@@ -11,3 +11,5 @@
 #### Minimum Square - https://practice.geeksforgeeks.org/problems/get-minimum-squares0538/1#
 
 #### Coin change max ways - https://practice.geeksforgeeks.org/problems/coin-change2448/1#
+
+#### Coin change min coins - https://practice.geeksforgeeks.org/problems/number-of-coins1824/1#
