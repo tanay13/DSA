@@ -9,3 +9,5 @@
 #### Rod Cutting problem(Unbounded Knapsack) - https://practice.geeksforgeeks.org/problems/rod-cutting0840/1#
 
 #### Minimum Square - https://practice.geeksforgeeks.org/problems/get-minimum-squares0538/1#
+
+#### Coin change max ways - https://practice.geeksforgeeks.org/problems/coin-change2448/1#
