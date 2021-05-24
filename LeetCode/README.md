@@ -1,31 +1,31 @@
-#### TwoSum(Medium) -> https://leetcode.com/problems/add-two-numbers/submissions/
+1. [Two Sum](https://leetcode.com/problems/add-two-numbers/submissions/)
 
-#### longest-substring-without-repeating-characters(Medium) -> https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/
+2. [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/)
 
-#### Median of Two Sorted Arrays -> https://leetcode.com/problems/median-of-two-sorted-arrays/
+3. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
-#### Maximum_subarray -> https://leetcode.com/problems/maximum-subarray
+4. [Maximum_subarray](https://leetcode.com/problems/maximum-subarray)
 
-#### Climbing Stairs -> https://leetcode.com/problems/climbing-stairs/
+5. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
-#### Best Time to Buy and Sell Stock -> https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+6. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
-#### Range Sum Query - Immutable -> https://leetcode.com/problems/range-sum-query-immutable/
+7. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 
-#### Is Subsequence -> https://leetcode.com/problems/is-subsequence/
+8. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
-#### Merged Intervals -> https://leetcode.com/problems/merge-intervals/
+9. [Merged Intervals](https://leetcode.com/problems/merge-intervals/)
 
-#### Target Sum (DP) -> https://leetcode.com/problems/target-sum/
+10. [Target Sum (DP)](https://leetcode.com/problems/target-sum/)
 
-#### first Unique character -> https://leetcode.com/problems/first-unique-character-in-a-string
+11. [first Unique character](https://leetcode.com/problems/first-unique-character-in-a-string)
 
-#### Shuffle an array -> https://leetcode.com/problems/shuffle-an-array
+12. [Shuffle an array](https://leetcode.com/problems/shuffle-an-array)
 
-#### House Robber -> https://leetcode.com/problems/house-robber
+13. [House Robber](https://leetcode.com/problems/house-robber)
 
-#### Linked List Cycle -> https://leetcode.com/problems/linked-list-cycle
+14. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 
-#### Odd Even Linked List -> https://leetcode.com/problems/odd-even-linked-list
+15. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
 
-#### Coin Change -> https://leetcode.com/problems/coin-change/submissions/
+16. [Coin Change](https://leetcode.com/problems/coin-change/submissions/)
