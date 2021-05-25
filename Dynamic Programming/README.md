@@ -13,3 +13,5 @@
 7. [Coin change max ways](https://practice.geeksforgeeks.org/problems/coin-change2448/1#)
 
 8. [Coin change min coins](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1#)
+
+9. [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1#)
