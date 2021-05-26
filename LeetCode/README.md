@@ -29,3 +29,5 @@
 15. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
 
 16. [Coin Change](https://leetcode.com/problems/coin-change/submissions/)
+
+17. [longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/)
