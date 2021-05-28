@@ -31,3 +31,5 @@
 16. [Coin Change](https://leetcode.com/problems/coin-change/submissions/)
 
 17. [longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/)
+
+18. [power of three](https://leetcode.com/problems/power-of-three/solution/)
