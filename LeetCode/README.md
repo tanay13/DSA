@@ -35,3 +35,5 @@
 18. [power of three](https://leetcode.com/problems/power-of-three/solution/)
 
 19. [Jump Game 6](https://leetcode.com/problems/jump-game-vi/submissions/)
+
+20. [Jump Game 2](https://leetcode.com/problems/jump-game-ii/submissions/)
