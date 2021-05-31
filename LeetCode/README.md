@@ -33,3 +33,5 @@
 17. [longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/)
 
 18. [power of three](https://leetcode.com/problems/power-of-three/solution/)
+
+19. [Jump Game 6](https://leetcode.com/problems/jump-game-vi/submissions/)
