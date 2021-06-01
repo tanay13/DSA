@@ -37,3 +37,5 @@
 19. [Jump Game 6](https://leetcode.com/problems/jump-game-vi/submissions/)
 
 20. [Jump Game 2](https://leetcode.com/problems/jump-game-ii/submissions/)
+
+21. [Jump Game 1](https://leetcode.com/problems/jump-game/submissions/)
