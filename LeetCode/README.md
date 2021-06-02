@@ -39,3 +39,5 @@
 20. [Jump Game 2](https://leetcode.com/problems/jump-game-ii/submissions/)
 
 21. [Jump Game 1](https://leetcode.com/problems/jump-game/submissions/)
+
+22. [maximum-erasure-value](https://leetcode.com/problems/maximum-erasure-value/submissions/)
