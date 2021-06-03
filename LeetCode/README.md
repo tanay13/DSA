@@ -41,3 +41,5 @@
 21. [Jump Game 1](https://leetcode.com/problems/jump-game/submissions/)
 
 22. [maximum-erasure-value](https://leetcode.com/problems/maximum-erasure-value/submissions/)
+
+23. [maximum size subarray](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/)
