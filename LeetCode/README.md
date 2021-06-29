@@ -43,3 +43,5 @@
 22. [maximum-erasure-value](https://leetcode.com/problems/maximum-erasure-value/submissions/)
 
 23. [maximum size subarray](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/)
+
+24. [Maximum consecutive ones](https://leetcode.com/problems/max-consecutive-ones-iii/submissions/)
