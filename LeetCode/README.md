@@ -45,3 +45,5 @@
 23. [maximum size subarray](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/)
 
 24. [Maximum consecutive ones](https://leetcode.com/problems/max-consecutive-ones-iii/submissions/)
+
+25. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
