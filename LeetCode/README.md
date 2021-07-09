@@ -49,3 +49,5 @@
 25. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 26. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+
+27. [Invert Binary tree](https://leetcode.com/problems/invert-binary-tree/submissions/)
