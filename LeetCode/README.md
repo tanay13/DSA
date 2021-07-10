@@ -51,3 +51,5 @@
 26. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 27. [Invert Binary tree](https://leetcode.com/problems/invert-binary-tree/submissions/)
+
+28. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
