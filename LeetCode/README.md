@@ -55,3 +55,5 @@
 28. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
 29. [Construct Binary Tree](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+30. [Sum Root to Leaf](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
