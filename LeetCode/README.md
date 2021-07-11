@@ -53,3 +53,5 @@
 27. [Invert Binary tree](https://leetcode.com/problems/invert-binary-tree/submissions/)
 
 28. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+
+29. [Construct Binary Tree](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
