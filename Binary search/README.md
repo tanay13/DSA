@@ -5,3 +5,5 @@
 3. [Number of occurrences of x](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1)
 
 4. [Rotations](https://practice.geeksforgeeks.org/problems/rotation4723/1#)
+
+5. [Search in Rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
