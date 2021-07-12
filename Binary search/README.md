@@ -7,3 +7,5 @@
 4. [Rotations](https://practice.geeksforgeeks.org/problems/rotation4723/1#)
 
 5. [Search in Rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+6. [Single element in Sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
