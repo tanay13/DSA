@@ -65,3 +65,5 @@
 33. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 34. [Peak element](https://leetcode.com/problems/find-peak-element/)
+
+35. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
