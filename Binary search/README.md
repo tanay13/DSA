@@ -9,3 +9,5 @@
 5. [Search in Rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 6. [Single element in Sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+
+7. [Search in 2D array](https://leetcode.com/problems/search-a-2d-matrix/)
