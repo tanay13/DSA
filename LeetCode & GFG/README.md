@@ -69,3 +69,5 @@
 35. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 
 36. [Lowest common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/)
+
+37. [Target Root Sum b/w two Bin tree](https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1#)
