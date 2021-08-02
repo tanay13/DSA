@@ -15,3 +15,5 @@
 8. [Coin change min coins](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1#)
 
 9. [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1#)
+
+10. [0-1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1#)
