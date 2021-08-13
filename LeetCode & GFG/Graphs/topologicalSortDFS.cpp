@@ -1,4 +1,4 @@
-// topological sort only possible in DAG (Directed Acyclic Graph)
+// topological sort is only possible in DAG (Directed Acyclic Graph)
 
 class Solution
 {
