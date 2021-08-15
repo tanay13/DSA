@@ -1,8 +1,7 @@
-// Min number of coins
-
-int minCoins(int coins[], int M, int V)
+int coinChange(vector<int> &coins, int amount)
 {
-    // Your code goes here
+    int M = coins.size();
+    int V = amount;
     int dp[M + 1][V + 1];
     //code here.
     for (int i = 0; i < V + 1; i++)
