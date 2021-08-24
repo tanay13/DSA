@@ -19,3 +19,5 @@
 10. [0-1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1#)
 
 11. [Longest Common substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1#)
+
+12. [Min Cost stairs](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/)
