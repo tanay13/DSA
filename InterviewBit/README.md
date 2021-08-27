@@ -1,0 +1,1 @@
+1. [Pick from both sides](https://www.interviewbit.com/problems/pick-from-both-sides/)
