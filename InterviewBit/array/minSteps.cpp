@@ -1,0 +1,18 @@
+int Solution::coverPoints(vector<int> &A, vector<int> &B)
+{
+
+    int step = 0;
+
+    for (int i = 0; i < A.size() - 1; i++)
+    {
+        if (abs(A[i] - A[i + 1]) >= abs(B[i] - B[i + 1]))
+        {
+            step += abs(A[i] - A[i + 1]);
+        }
+        else
+        {
+            step += abs(B[i] - B[i + 1]);
+        }
+    }
+    return step;
+}
