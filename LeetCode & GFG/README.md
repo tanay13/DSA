@@ -77,3 +77,5 @@
 39. [B F S](https://practice.geeksforgeeks.org/problems/level-order-traversal/1#)
 
 40. [Max diff between node and ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/submissions/)
+
+41. [First missing positive number](https://leetcode.com/problems/first-missing-positive/submissions/)
