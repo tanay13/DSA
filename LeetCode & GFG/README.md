@@ -75,3 +75,5 @@
 38. [Duplicate Subtree](https://leetcode.com/problems/find-duplicate-subtrees/)
 
 39. [B F S](https://practice.geeksforgeeks.org/problems/level-order-traversal/1#)
+
+40. [Max diff between node and ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/submissions/)
