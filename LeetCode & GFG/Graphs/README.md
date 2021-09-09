@@ -3,3 +3,4 @@
 3. [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1#)
 4. [Jump Game 4](https://leetcode.com/problems/jump-game-iv/submissions/)
 5. [ Flood Fill Algo](https://leetcode.com/problems/flood-fill/submissions/)
+6. [Alien dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1#)
