@@ -23,3 +23,5 @@
 12. [Min Cost stairs](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/)
 
 13. [Largest plus sign](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/637/week-2-september-8th-september-14th/3969/)
+
+14. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)

@@ -14,7 +14,7 @@ int activitySelection(int start[], int end[], int n){
     
     //selecting activity which 
     //have start time greater than 
-    //end time of previous activity--
+    //end time of previous activity
     int i=0,j=1,ans=1;
     while(i<n&&j<n)
     {
