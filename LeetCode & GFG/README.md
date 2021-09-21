@@ -79,3 +79,5 @@
 40. [Max diff between node and ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/submissions/)
 
 41. [First missing positive number](https://leetcode.com/problems/first-missing-positive/submissions/)
+
+42. [Tic tac toe winner](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3981/)
