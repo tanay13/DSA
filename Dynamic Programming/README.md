@@ -27,3 +27,5 @@
 14. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 15. [Generate parentheses](https://leetcode.com/problems/generate-parentheses/submissions/)
+
+16. [Distinct subsequence](https://leetcode.com/problems/distinct-subsequences/submissions/)
