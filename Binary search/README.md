@@ -11,3 +11,5 @@
 6. [Single element in Sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
 7. [Search in 2D array](https://leetcode.com/problems/search-a-2d-matrix/)
+
+8. [Allocate min number of pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#)
