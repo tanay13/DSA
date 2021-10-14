@@ -33,3 +33,5 @@
 17. [House robber](https://leetcode.com/problems/house-robber/submissions/)
 
 18. [House robber 2](https://leetcode.com/problems/house-robber-ii/submissions/)
+
+19. [Perfect square sum](https://leetcode.com/problems/perfect-squares/submissions/)
