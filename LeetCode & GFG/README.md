@@ -83,3 +83,5 @@
 42. [Tic tac toe winner](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3981/)
 
 43. [Min arrows to burst balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+
+44. [Path Sum](https://leetcode.com/problems/path-sum/)
