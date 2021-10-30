@@ -87,3 +87,5 @@
 44. [Path Sum](https://leetcode.com/problems/path-sum/)
 
 45. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/submissions/)
+
+46. [3sum](https://leetcode.com/problems/3sum/submissions/)
