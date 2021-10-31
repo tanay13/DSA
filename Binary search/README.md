@@ -15,3 +15,5 @@
 8. [Allocate min number of pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#)
 
 9. [Minimum element in Rotated sorted array 2](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/)
+
+10. [Two best non overlapping events](https://leetcode.com/problems/two-best-non-overlapping-events/submissions/)
