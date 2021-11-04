@@ -3,3 +3,4 @@
 3. [Sort array by parity 2](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/639/week-4-september-22nd-september-28th/3990/)
 4. [Max element in a window of K size](https://leetcode.com/problems/sliding-window-maximum/submissions/)
 5. [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)
+6. [Number of subsequence which less than equal to targe](thttps://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
