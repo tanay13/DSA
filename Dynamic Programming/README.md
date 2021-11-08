@@ -35,3 +35,5 @@
 18. [House robber 2](https://leetcode.com/problems/house-robber-ii/submissions/)
 
 19. [Perfect square sum](https://leetcode.com/problems/perfect-squares/submissions/)
+
+20. [Unique BST](https://leetcode.com/problems/unique-binary-search-trees/submissions/)
