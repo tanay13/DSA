@@ -6,3 +6,4 @@
 6. [Number of subsequence which less than equal to targe](thttps://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
 7. [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
 8. [3Sum Closest](https://leetcode.com/problems/3sum-closest/submissions/)
+9. [Counting Bits](https://leetcode.com/problems/counting-bits/submissions/)
