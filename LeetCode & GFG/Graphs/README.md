@@ -4,3 +4,4 @@
 4. [Jump Game 4](https://leetcode.com/problems/jump-game-iv/submissions/)
 5. [ Flood Fill Algo](https://leetcode.com/problems/flood-fill/submissions/)
 6. [Alien dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1#)
+7. [All paths from source](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/)
