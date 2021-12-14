@@ -41,3 +41,5 @@
 21. [Min insertion and deletion](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1#)
 
 22. [Longest palindromic subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/)
+
+23. [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
