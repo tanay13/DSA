@@ -45,3 +45,5 @@
 23. [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
 
 24. [Matrix chain multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1#)
+
+25. [Palindromic Partition](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#)
