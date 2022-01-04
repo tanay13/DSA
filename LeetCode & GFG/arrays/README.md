@@ -7,3 +7,4 @@
 7. [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
 8. [3Sum Closest](https://leetcode.com/problems/3sum-closest/submissions/)
 9. [Counting Bits](https://leetcode.com/problems/counting-bits/submissions/)
+10. [Total duration divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/submissions/)
