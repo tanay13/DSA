@@ -3,3 +3,5 @@
 2. [Rat in a maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#)
 
 3. [Path Sum 2](https://leetcode.com/problems/path-sum-ii/)
+
+4. [palindrome partioning](https://leetcode.com/problems/palindrome-partitioning/submissions/)
