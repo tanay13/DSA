@@ -97,3 +97,5 @@
 49. [Create Tree from Inorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/)
 
 50. [Robot Bounded in Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
+
+51. [Can place a flower](https://leetcode.com/problems/can-place-flowers/submissions/)
