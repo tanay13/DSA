@@ -17,3 +17,5 @@
 9. [Minimum element in Rotated sorted array 2](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/)
 
 10. [Two best non overlapping events](https://leetcode.com/problems/two-best-non-overlapping-events/submissions/)
+
+11. [Koko Eating bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/)
