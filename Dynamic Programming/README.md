@@ -47,3 +47,5 @@
 24. [Matrix chain multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1#)
 
 25. [Palindromic Partition](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#)
+
+26. [Stone game 4](https://leetcode.com/problems/stone-game-iv/submissions/)
