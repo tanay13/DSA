@@ -101,3 +101,5 @@
 51. [Can place a flower](https://leetcode.com/problems/can-place-flowers/submissions/)
 
 52. [Gas Station](https://leetcode.com/problems/gas-station/submissions/)
+
+53. [Sequential Digits](https://leetcode.com/problems/sequential-digits/)
