@@ -5,3 +5,4 @@
 5. [ Flood Fill Algo](https://leetcode.com/problems/flood-fill/submissions/)
 6. [Alien dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1#)
 7. [All paths from source](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/)
+8. [Dijkstra Algorithm implementation](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1/#)
