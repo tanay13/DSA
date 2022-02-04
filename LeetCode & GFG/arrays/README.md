@@ -10,3 +10,4 @@
 10. [Total duration divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/submissions/)
 11. [Max distance from closest person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
 12. [4 Sum II](https://leetcode.com/problems/4sum-ii/submissions/)
+13. [Contiguos Array](https://leetcode.com/problems/contiguous-array/submissions/)
