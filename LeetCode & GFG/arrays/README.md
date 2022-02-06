@@ -11,3 +11,4 @@
 11. [Max distance from closest person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
 12. [4 Sum II](https://leetcode.com/problems/4sum-ii/submissions/)
 13. [Contiguos Array](https://leetcode.com/problems/contiguous-array/submissions/)
+14. [Remove Duplicates 2](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/)
