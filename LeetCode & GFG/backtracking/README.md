@@ -5,3 +5,5 @@
 3. [Path Sum 2](https://leetcode.com/problems/path-sum-ii/)
 
 4. [palindrome partioning](https://leetcode.com/problems/palindrome-partitioning/submissions/)
+
+5. [Ambiguos Coordinates](https://leetcode.com/problems/ambiguous-coordinates/submissions/)
