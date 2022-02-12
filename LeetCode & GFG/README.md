@@ -107,3 +107,5 @@
 54. [Find all Anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/)
 
 55. [Add Digits](https://leetcode.com/problems/add-digits/)
+
+56. [Word Ladder](https://leetcode.com/problems/word-ladder/)
