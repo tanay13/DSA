@@ -7,3 +7,5 @@
 4. [palindrome partioning](https://leetcode.com/problems/palindrome-partitioning/submissions/)
 
 5. [Ambiguos Coordinates](https://leetcode.com/problems/ambiguous-coordinates/submissions/)
+
+6. [Subsets](https://leetcode.com/problems/subsets/)
