@@ -111,3 +111,5 @@
 56. [Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 57. [Remove K digits](https://leetcode.com/problems/remove-k-digits/)
+
+58. [Remove covered intervals](https://leetcode.com/problems/remove-covered-intervals/)
