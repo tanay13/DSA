@@ -26,3 +26,5 @@
 14. [Remove Duplicates 2](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/)
 
 15. [Permutation in string](https://leetcode.com/problems/permutation-in-string/submissions/)
+
+16. [Majority Element](https://leetcode.com/problems/majority-element/)
