@@ -7,3 +7,4 @@
 7. [All paths from source](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/)
 8. [Dijkstra Algorithm implementation](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1/#)
 9. [Clone graph](https://leetcode.com/problems/clone-graph/submissions/)
+10. [Shortest Path Visiting all nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/submissions/)
