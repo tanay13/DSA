@@ -20,3 +20,8 @@
 
 - We sort the two divided subarray and then merge both left subarray and right subarray and copy the values to the original array.
 - Time complexity - O(nlogn)
+
+## Quick Sort
+
+- We choose the pivot element and place it in the array in such manner that all the left elements are smaller than it and all the elements to its right are bigger than the pivot element.
+- Recursively applying partioning logic on both the subproblem
