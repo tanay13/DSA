@@ -49,3 +49,5 @@
 25. [Palindromic Partition](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#)
 
 26. [Stone game 4](https://leetcode.com/problems/stone-game-iv/submissions/)
+
+27. [Arithmatic Slice](https://leetcode.com/problems/arithmetic-slices/submissions/)
