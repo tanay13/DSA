@@ -51,3 +51,5 @@
 26. [Stone game 4](https://leetcode.com/problems/stone-game-iv/submissions/)
 
 27. [Arithmatic Slice](https://leetcode.com/problems/arithmetic-slices/submissions/)
+
+28. [Champagne Tower](https://leetcode.com/problems/champagne-tower/submissions/)
