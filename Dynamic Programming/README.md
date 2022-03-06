@@ -53,3 +53,5 @@
 27. [Arithmatic Slice](https://leetcode.com/problems/arithmetic-slices/submissions/)
 
 28. [Champagne Tower](https://leetcode.com/problems/champagne-tower/submissions/)
+
+29. [Delete and Earn](https://leetcode.com/problems/delete-and-earn/submissions/)
