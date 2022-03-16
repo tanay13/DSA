@@ -117,3 +117,5 @@
 59. [Compare version number](https://leetcode.com/problems/compare-version-numbers/)
 
 60. [Max width of binary tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/)
+
+61. [Validate stack sequence](https://leetcode.com/problems/validate-stack-sequences/submissions/)
