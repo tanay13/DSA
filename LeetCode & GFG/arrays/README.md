@@ -28,3 +28,5 @@
 15. [Permutation in string](https://leetcode.com/problems/permutation-in-string/submissions/)
 
 16. [Majority Element](https://leetcode.com/problems/majority-element/)
+
+17. [3 Sum mulitiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)
