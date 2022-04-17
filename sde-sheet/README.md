@@ -17,3 +17,6 @@
 
    - sum = max(sum+nums[i],nums[i])
    - lsum = max(lsum,sum)
+
+5. [Sort colors](https://leetcode.com/problems/sort-colors/submissions/)
+   - Count # 0s,1s and 2s and then overwrite them into the array
