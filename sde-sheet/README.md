@@ -23,3 +23,13 @@
    - Count # 0s,1s and 2s and then overwrite them into the array
 
 6. [Best time to buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)
+
+7. [Rotate Matrix](https://leetcode.com/problems/rotate-image/)
+
+   - Transpose the matrix and reverse each row
+
+8. [Merged Intervals](https://leetcode.com/problems/merge-intervals/submissions/)
+
+   - Sort the array on the basis of the first element
+   - check if the interval's start date is less than or equal to the previous interval's end date
+   - if it is, then make and interval of (s,max(currEnd,prevEnd))
