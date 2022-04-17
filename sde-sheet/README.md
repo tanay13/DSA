@@ -19,4 +19,7 @@
    - lsum = max(lsum,sum)
 
 5. [Sort colors](https://leetcode.com/problems/sort-colors/submissions/)
+
    - Count # 0s,1s and 2s and then overwrite them into the array
+
+6. [Best time to buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)
