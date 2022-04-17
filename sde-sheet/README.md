@@ -7,7 +7,13 @@
 2. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/submissions/)
 
 3. [Next permutaion](https://leetcode.com/problems/next-permutation/submissions/)
+
    - Find the breakpoint of increasing sequence
    - Again traverse from the back and find the first element greater than the breakpoint el.
    - swap them and reverse all the elements after the breakpoint index because from the back it will be linearly increasing
    - ![](ss/np.png)
+
+4. [Max subarray](https://leetcode.com/problems/maximum-subarray/)
+
+   - sum = max(sum+nums[i],nums[i])
+   - lsum = max(lsum,sum)
