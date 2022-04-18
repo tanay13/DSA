@@ -52,3 +52,9 @@
      i--;
 
      }
+
+10. [Find Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/submissions/)
+
+    - Put the elements to nums[nums[i]-1] positions
+    - If nums[nums[i]-1] == nums[i] then this is the repeating number
+    - if not equal then swap those elements and continue the algo without incrementing the index(i)
