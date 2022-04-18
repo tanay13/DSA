@@ -123,3 +123,7 @@
 62. [BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/)
 
 <img src="greater.png" width=30% />
+
+63. [Kth Smallest Node](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/)
+
+    - Inorder gives sorted list of all the nodes in BST
