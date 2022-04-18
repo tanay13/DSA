@@ -38,6 +38,7 @@
 
    - Start filling the num1 array from the end
    - initialize i = m-1 and j = n-1, k = m-n-1
+   - compare the last el of both arrays and then put the greatest one in the kth position and then decrement k
    - if(nums1[i] < nums2[j])
      {
      nums1[k] = nums2[j];
