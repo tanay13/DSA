@@ -33,3 +33,21 @@
    - Sort the array on the basis of the first element
    - check if the interval's start date is less than or equal to the previous interval's end date
    - if it is, then make and interval of (s,max(currEnd,prevEnd))
+
+9. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/)
+
+   - Start filling the num1 array from the end
+   - initialize i = m-1 and j = n-1, k = m-n-1
+   - if(nums1[i] < nums2[j])
+     {
+     nums1[k] = nums2[j];
+     k--;
+     j--;
+     }
+     else
+     {
+     nums1[k] = nums1[i];
+     k--;
+     i--;
+
+     }
