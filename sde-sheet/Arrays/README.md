@@ -11,7 +11,7 @@
    - Find the breakpoint of increasing sequence
    - Again traverse from the back and find the first element greater than the breakpoint el.
    - swap them and reverse all the elements after the breakpoint index because from the back it will be linearly increasing
-   - ![](ss/np.png)
+   - ![](../ss/np.png)
 
 4. [Max subarray](https://leetcode.com/problems/maximum-subarray/)
 
