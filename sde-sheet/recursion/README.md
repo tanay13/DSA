@@ -3,6 +3,7 @@
 - Since the nums array may contain duplicate numbers, so in the 2^n subsets, it may contain duplicate subsets.
 - We need to sort nums array to ensure all the generated subsets will also be sorted. This helps to identify duplicates. For example: subsets {3, 1, 3}, {1, 3, 3}, {3, 3, 1} will become {1, 3, 3}.
 - If numbers are duplicates, we keep the first time, otherwise we skips. We can see it clearly through following picture.
+- ![img](../ss/subset.png)
 
 2. [Combination sum](https://leetcode.com/problems/combination-sum/)
 
