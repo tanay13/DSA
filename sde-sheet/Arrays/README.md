@@ -58,3 +58,10 @@
     - Put the elements to nums[nums[i]-1] positions
     - If nums[nums[i]-1] == nums[i] then this is the repeating number
     - if not equal then swap those elements and continue the algo without incrementing the index(i)
+
+11. [Largest subarray with sum 0](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#)
+
+    - First let us initialise a variable say sum = 0 which stores the sum of elements traversed so far and another variable say max = 0 which stores the length of longest subarray with sum zero.
+    - Declare a HashMap<Integer, Integer> which stores the prefix sum of every element as key and its index as value.
+    - Now traverse the array, and add the array element to our sum.
+      (i) If sum = 0, then we can say that the subarray until the current index has a sum = 0, so we update max with the maximum value of (max, current_index+1)

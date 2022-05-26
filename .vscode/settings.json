@@ -9,7 +9,13 @@
     "utility": "cpp",
     "valarray": "cpp",
     "functional": "cpp",
-    "charconv": "cpp"
+    "charconv": "cpp",
+    "deque": "cpp",
+    "forward_list": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp"
   },
   "C_Cpp.intelliSenseEngineFallback": "Disabled",
   "C_Cpp.errorSquiggles": "Disabled"
