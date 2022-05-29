@@ -19,5 +19,11 @@
    - If indegree is 0 push in the q and perform bfs and keep decreasing indgree
 
 5. [Number of island](https://leetcode.com/problems/number-of-islands/submissions/)
+
    - Start from the first cell which is 1 and traverse using dfs/bfs and visit all connected 1s.
    - After the dfs is completed increament the island-counter by 1
+
+6. [Most stones removed](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
+
+   - Construct an undirected graph of stones with same row or column
+   - Do DFS to know how many nodes can be reached
