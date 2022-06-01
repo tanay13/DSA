@@ -27,3 +27,5 @@
 
    - Construct an undirected graph of stones with same row or column
    - Do DFS to know how many nodes can be reached
+
+7. [Sudoku solver](https://leetcode.com/problems/sudoku-solver/submissions/)
