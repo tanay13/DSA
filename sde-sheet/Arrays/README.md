@@ -65,3 +65,7 @@
     - Declare a HashMap<Integer, Integer> which stores the prefix sum of every element as key and its index as value.
     - Now traverse the array, and add the array element to our sum.
       (i) If sum = 0, then we can say that the subarray until the current index has a sum = 0, so we update max with the maximum value of (max, current_index+1)
+
+12. [Range sum query](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+
+    - https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/2104317/DP-Visualised-%2B-Interview-Tipss
