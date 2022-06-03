@@ -8,3 +8,8 @@
 
    - 0/1 knapsack pattern
    - 3D array
+
+3. [Regex Matching](https://leetcode.com/problems/regular-expression-matching/submissions/)
+
+   - If the next char of the pattern string is \* then we have two option
+   - either to take the char associated with the \* or ignore it.
