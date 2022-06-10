@@ -69,3 +69,9 @@
 12. [Range sum query](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 
     - https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/2104317/DP-Visualised-%2B-Interview-Tipss
+
+13. [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+    - Maintaining freq map and checking if size of map is equal to the length of the window or not.
+    - if yes then increament the end pointer.
+    - if no then erase the st[s] char and increament the start pointer.
