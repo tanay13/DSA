@@ -22,3 +22,10 @@
 
    - We use diagonal DP and fill the first two cell of every row , first cell with 1 and the second cell with 1 if (s[i] == s[i+1]) otherwise 0
    - Starting from the bottom of the 2D array we fill the cell with 1 if (s[i] == s[j] && dp[i+1][j-1] == 1 ) because it tells that the string between the starting and the current index is also a palindrom.
+
+6. [Longest string Chain](https://leetcode.com/problems/longest-string-chain/submissions/)
+
+   - In this approach, we are creating a vector which at every index stores the length of the chain ending at that particular index.
+   - This means that at any index i, we store the chain length that ends at the string corresponding to the ith index.
+   - dp[i] < dp[prev]+1 checks that if we add the prev index string to the chain, will it increase the chain length or not,
+   - if the chain length is not increasing by adding the prev index string then it won't form the longest chain ending at the ith index, if the prev index string creates a longer chain ending at ith index then we add it to the chain and increase the value of the current index.
