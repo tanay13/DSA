@@ -29,3 +29,8 @@
    - This means that at any index i, we store the chain length that ends at the string corresponding to the ith index.
    - dp[i] < dp[prev]+1 checks that if we add the prev index string to the chain, will it increase the chain length or not,
    - if the chain length is not increasing by adding the prev index string then it won't form the longest chain ending at the ith index, if the prev index string creates a longer chain ending at ith index then we add it to the chain and increase the value of the current index.
+
+7. [Edit Distance](https://leetcode.com/problems/edit-distance/submissions/)
+
+   - If chars are same then do i-1 j-1 otherwise take into all 3 cases possible
+   - that is insert delete replace
