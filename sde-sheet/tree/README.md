@@ -9,3 +9,5 @@
 3. [Boundary Traversal](https://www.codingninjas.com/codestudio/problems/boundary-traversal_790725?utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&leftPanelTab=1)
 
    - left boundary + leaf nodes + right boundary
+
+4. [Vertical View](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
