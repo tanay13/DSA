@@ -13,3 +13,8 @@
 3. [Stock Span]()
 
    - Find the index of the next greater element to the left of the ith element and then push the difference in the index in the result vector
+
+4. [Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/)
+
+   - Find NSL and NSR index for all the indices
+   - find the max area considering the nsl and nsr index
