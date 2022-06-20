@@ -9,3 +9,7 @@
    - Storing the elements from the back of vector in the stack (to store all the elements to the right of the current index)
    - if the stack is empty then push -1 in the result vector since there is no element greater than the current element in the right side
    - popping the stack element until the top element is greater than the current element.
+
+3. [Stock Span]()
+
+   - Find the index of the next greater element to the left of the ith element and then push the difference in the index in the result vector
