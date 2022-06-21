@@ -75,3 +75,8 @@
     - Maintaining freq map and checking if size of map is equal to the length of the window or not.
     - if yes then increament the end pointer.
     - if no then erase the st[s] char and increament the start pointer.
+
+14. [first missing positive number](https://leetcode.com/problems/first-missing-positive/submissions/)
+
+    - Swap nums[i] with nums[nums[i]-1] so that all the 1st index has 1 2nd index has 2 ans so on...
+    - after that iterate over the nums vector and check if (nums[i]!=i+1) then return i+1 because it is the first positive integer which is no present
