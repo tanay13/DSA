@@ -18,3 +18,9 @@
 
    - Find NSL and NSR index for all the indices
    - find the max area considering the nsl and nsr index
+
+5. [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/)
+
+   - Calculating water stored at the top of each building.
+   - this can be done by finding the greatest building on the left and right of the current building.
+   - water = 1\*min(lh,rh)
