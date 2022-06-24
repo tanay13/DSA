@@ -6,3 +6,10 @@
 2. [Construct target array](https://leetcode.com/problems/construct-target-array-with-multiple-sums/submissions/)
 
    - https://leetcode.com/problems/construct-target-array-with-multiple-sums/discuss/2189445/Visual-Explanation-or-JAVA-Max-Heap
+
+3. [Course Schedule 3](https://leetcode.com/problems/course-schedule-iii/submissions/)
+
+   - sorting on the basis of ending time
+   - iterating over the array and adding the duration in the max heap.
+   - if the total duration exceeds the current element's deadline then we remove the biggest course we have added till now(p.top())
+   - at the end the size of the max heap is the total course we can do
