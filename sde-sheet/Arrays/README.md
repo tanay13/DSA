@@ -80,3 +80,9 @@
 
     - Swap nums[i] with nums[nums[i]-1] so that all the 1st index has 1 2nd index has 2 ans so on...
     - after that iterate over the nums vector and check if (nums[i]!=i+1) then return i+1 because it is the first positive integer which is no present
+
+15. [Non decreasing Array](https://leetcode.com/problems/non-decreasing-array/submissions/)
+
+    - If we found a pair where nums[i-1] > nums[i], we can perform one of two operations,
+    - Changes nums[i-1] to nums[i], when nums[i-2] <= nums[i] .
+    - Changes nums[i] to nums[i-1], when the above case is not true.
