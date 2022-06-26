@@ -15,3 +15,9 @@
 5. [Top View](https://www.codingninjas.com/codestudio/problems/top-view-of-the-tree_799401?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&=1)
 
 6. [Bottom View](https://www.codingninjas.com/codestudio/problems/bottom-view-of-binary-tree_893110?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&=1)
+
+7. [Right View](https://leetcode.com/problems/binary-tree-right-side-view/)
+
+   - maintaining queue data structure
+   - key: level , value: node->val
+   - for right view enter the left node first
