@@ -23,3 +23,7 @@
    - for right view enter the left node first
 
 8. [Path to given Node](https://www.interviewbit.com/problems/path-to-given-node/)
+
+9. [Max width](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/)
+   - Indexing all the nodes (left node -> 2*i+1 and right node -> 2*i+2);
+   - to avoid overflow we start all the level's indexing with 0
