@@ -11,3 +11,7 @@
    - left boundary + leaf nodes + right boundary
 
 4. [Vertical View](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+
+5. [Top View](https://www.codingninjas.com/codestudio/problems/top-view-of-the-tree_799401?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&=1)
+
+6. [Bottom View](https://www.codingninjas.com/codestudio/problems/bottom-view-of-binary-tree_893110?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos&=1)
