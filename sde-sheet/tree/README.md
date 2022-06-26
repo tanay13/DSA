@@ -21,3 +21,5 @@
    - maintaining queue data structure
    - key: level , value: node->val
    - for right view enter the left node first
+
+8. [Path to given Node](https://www.interviewbit.com/problems/path-to-given-node/)
