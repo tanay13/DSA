@@ -12,3 +12,8 @@
    - iterate through the vector
    - if the freq is greater than f then remove the (it-f) occurrences of the current letter(if f>0)
    - if f <= 0 it means that all the letters should be deleted.
+
+3. [Queue Reconstruction](https://leetcode.com/problems/queue-reconstruction-by-height/submissions/)
+
+   - sort the vector in descending order of the heights and ascending order of same height's k value.
+   - iterate over the vector and insert the heights at the kth index because higher heights have already been inserted.
