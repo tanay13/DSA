@@ -40,3 +40,9 @@
 9. [Buy sell stock 3](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/submissions/)
 
 10. [Buy sell stock 3](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/submissions/)
+
+11. [Number of LIS](https://www.codingninjas.com/codestudio/problems/number-of-longest-increasing-subsequence_3751627?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=1)
+
+    - maintaining a count array with all values of 1.
+    - count[i] will store the LIS count which ends at ith index.
+    - if dp[j]+1 > dp[i] then it means that count[i] will be equal to count[j] if dp[j]+1 == dp[i] then count[i]+=count[j] because LIS count is getting increased
