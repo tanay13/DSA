@@ -17,3 +17,8 @@
 
    - sort the vector in descending order of the heights and ascending order of same height's k value.
    - iterate over the vector and insert the heights at the kth index because higher heights have already been inserted.
+
+4. [Max area of piece of cake](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/submissions/)
+
+   - Sort the horizontal and vertical cuts and find the largest diff in horizontal and vertical cuts.
+   - multiply both of them to get the ans
