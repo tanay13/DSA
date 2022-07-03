@@ -22,3 +22,8 @@
 
    - Sort the horizontal and vertical cuts and find the largest diff in horizontal and vertical cuts.
    - multiply both of them to get the ans
+
+5. [Wiggle subsequence](https://leetcode.com/problems/wiggle-subsequence/submissions/)
+
+   - peak and valley are two variable because we dont know whether the first element is peak or a valley
+   - https://leetcode.com/problems/wiggle-subsequence/discuss/2229495/C%2B%2B-O-(-N-)-oror-EXPLAINED-oror
