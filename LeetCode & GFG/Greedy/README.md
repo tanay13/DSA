@@ -27,3 +27,11 @@
 
    - peak and valley are two variable because we dont know whether the first element is peak or a valley
    - https://leetcode.com/problems/wiggle-subsequence/discuss/2229495/C%2B%2B-O-(-N-)-oror-EXPLAINED-oror
+
+6. [Distribute Candies](https://leetcode.com/problems/candy/submissions/)
+
+   - Assign all the values as 1 since 1 is the minimum amount of candies everyone will get.
+   - in the first loop check if a[i] > a[i-1], if yes then update c[i] = c[i-1]+1;
+   - but with this loop only left part is calculated, when taking into account the right part of the array the values might increase.
+   - looping from the back and checking if a[i] > a[i+1] && c[i]<=c[i+1], if yes then update c[i] = c[i+1]+1
+   - c[i] <= c[i+1] because if the count is already greater than c[i+1] then there is no need of increasing the values.
