@@ -86,3 +86,5 @@
     - If we found a pair where nums[i-1] > nums[i], we can perform one of two operations,
     - Changes nums[i-1] to nums[i], when nums[i-2] <= nums[i] .
     - Changes nums[i] to nums[i-1], when the above case is not true.
+
+16. [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
