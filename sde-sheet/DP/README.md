@@ -48,3 +48,5 @@
     - if dp[j]+1 > dp[i] then it means that count[i] will be equal to count[j] if dp[j]+1 == dp[i] then count[i]+=count[j] because LIS count is getting increased
 
 12. [Min cost stairs](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/)
+
+13. [Min cost to cut sticks](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
