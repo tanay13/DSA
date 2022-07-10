@@ -46,3 +46,5 @@
     - maintaining a count array with all values of 1.
     - count[i] will store the LIS count which ends at ith index.
     - if dp[j]+1 > dp[i] then it means that count[i] will be equal to count[j] if dp[j]+1 == dp[i] then count[i]+=count[j] because LIS count is getting increased
+
+12. [Min cost stairs](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/)
