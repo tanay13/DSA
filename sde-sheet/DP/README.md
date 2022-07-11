@@ -50,3 +50,9 @@
 12. [Min cost stairs](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/)
 
 13. [Min cost to cut sticks](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
+
+14. [Burst balloons](https://leetcode.com/problems/burst-balloons/submissions/)
+
+    - Assume the kth balloon in bursted in the last between the interval [i,j]
+    - If k is the last balloon to be bursted in the [i,j] interval then we will have to solve for the subproblem of func(i,k-1) and func(k+1,j)
+    - These two subproblem will be independent because both of the are only dependant on the kth element since it is bursted at the end
