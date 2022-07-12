@@ -11,3 +11,9 @@
 - increament the curr pointer and check whether substr(prev,curr-prev+1) is a valid word or not
 - if yes then increament the prev and curr to curr+1.
 - and call the function recursively with the above values
+
+3. [Match stick to square](https://leetcode.com/problems/matchsticks-to-square/submissions/)
+
+   - Every matchstick can belong to either of the 4 sides. We don't know which one. Maybe try out all options!
+   - For every matchstick, we have to try out each of the 4 options i.e. which side it can belong to. We can make use of recursion for this.
+   - When all matchsticks have been used we simply need to see the length of all 4 sides. If they're equal, we have a square on our hands!
