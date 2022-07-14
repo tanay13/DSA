@@ -25,5 +25,13 @@
 8. [Path to given Node](https://www.interviewbit.com/problems/path-to-given-node/)
 
 9. [Max width](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/)
+
    - Indexing all the nodes (left node -> 2*i+1 and right node -> 2*i+2);
    - to avoid overflow we start all the level's indexing with 0
+
+10. [Construct Tree from preorder and inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/)
+
+    - Traverse the preorder order vector and create node for the current index.
+    - Now search for the same element in the inorder vector.
+    - All the element left to it will be on the left side of the particular element and similarly on the right side.
+    - recursively create the nodes
