@@ -88,3 +88,9 @@
     - Changes nums[i] to nums[i-1], when the above case is not true.
 
 16. [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+17. [Number of subarray with sum k](https://leetcode.com/problems/subarray-sum-equals-k/submissions/)
+
+    - Keep the track of number of prefix sum equal to SUM in a map
+    - with every iteration increament the SUM value and check if SUM-K value is present in the map or not
+    - if yes then add the m[ SUM-K ] value in the counter variable.
