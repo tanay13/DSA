@@ -94,3 +94,9 @@
     - Keep the track of number of prefix sum equal to SUM in a map
     - with every iteration increament the SUM value and check if SUM-K value is present in the map or not
     - if yes then add the m[ SUM-K ] value in the counter variable.
+
+18. [Number of sub matrices with sum k](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/submissions/)
+
+    - Create a column wise prefix sum 2D vector
+    - using nested for loop , loop through all row pair and calculate sum across jth row column.
+    - if sum-k is present in the matrix add m[ sum- k ]
