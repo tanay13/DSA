@@ -56,3 +56,7 @@
     - Assume the kth balloon in bursted in the last between the interval [i,j]
     - If k is the last balloon to be bursted in the [i,j] interval then we will have to solve for the subproblem of func(i,k-1) and func(k+1,j)
     - These two subproblem will be independent because both of the are only dependant on the kth element since it is bursted at the end
+
+15. [Interleaving Strings](https://leetcode.com/problems/interleaving-string/submissions/)
+
+    - For each char in s3 string we check the possibilty whether the element belongs to string s1 or s2 recursively.
