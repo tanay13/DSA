@@ -60,3 +60,5 @@
 15. [Interleaving Strings](https://leetcode.com/problems/interleaving-string/submissions/)
 
     - For each char in s3 string we check the possibilty whether the element belongs to string s1 or s2 recursively.
+
+16. [Paint House 3](https://leetcode.com/problems/paint-house-iii/submissions/)
