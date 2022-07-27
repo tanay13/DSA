@@ -35,3 +35,9 @@
     - Now search for the same element in the inorder vector.
     - All the element left to it will be on the left side of the particular element and similarly on the right side.
     - recursively create the nodes
+
+11. [Flatten Binary Tree](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/)
+
+    - Traverse to the right most element and correct its order.
+    - keep a prev variable to store the last corrected node.
+    - for every node do node->right = prev and ->left = NULL

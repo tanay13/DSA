@@ -62,3 +62,11 @@
     - For each char in s3 string we check the possibilty whether the element belongs to string s1 or s2 recursively.
 
 16. [Paint House 3](https://leetcode.com/problems/paint-house-iii/submissions/)
+
+17. [Jump game 6](https://leetcode.com/problems/jump-game-vi/submissions/)
+
+    - Maintain a deque of {dp[i],index} pair where the front elements are the highest element withing i+k range.
+    - dp[i] denotes the score of reaching at the end from ith element
+    - therefore dp[n-1] = nums[n-1]
+    - start iterating from n-2 and check if the front element is in the range or not, if not then pop the front value and set the dp[i] = nums[i]+deq.front().first
+    - because the first element is the highest score we can attain if we jump on any element within i+k range
