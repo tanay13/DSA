@@ -12,3 +12,8 @@
    - iterating over all the words and finding the upper_bound of the letter in the vector.
    - if the letter is present after a particular "last" index, then assign do last = idx (idx is the index of the letter in the vector map).
    - if letter is not present then it means that particular word is not a subseq of the string s.
+
+3. [Words Subset](https://leetcode.com/problems/word-subsets/submissions/)
+
+   - In the word2 array keep count of the maximum number of time the character appears and store it in the freq vector
+   - Iterate in word1 and check if the particular word has the particular letter count greater than or equal to the freq vector.
