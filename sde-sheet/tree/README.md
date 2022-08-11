@@ -41,3 +41,5 @@
     - Traverse to the right most element and correct its order.
     - keep a prev variable to store the last corrected node.
     - for every node do node->right = prev and ->left = NULL
+
+12. [Valid BST](https://leetcode.com/problems/validate-binary-search-tree/submissions/)

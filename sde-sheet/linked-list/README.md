@@ -10,3 +10,7 @@
    - maintain a slow pointer and prev pointer which is NULL initially
    - increament all the pointer till the fast pointer reaches the end
    - when the fast pointer reaches the end then it means that the slow pointer is at len-n index from the start ie nth node from the end.
+
+3. [Reverse nodes in k groups](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+
+   - recursively reverse nodes for every k nodes
