@@ -108,7 +108,7 @@
 
 55. [Add Digits](https://leetcode.com/problems/add-digits/)
 
-56. [Word Ladder](https://leetcode.com/problems/word-ladder/)
+56. [Word Ladder](https://leetcode.com/problems/dder/)
 
 57. [Remove K digits](https://leetcode.com/problems/remove-k-digits/)
 

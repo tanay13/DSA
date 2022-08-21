@@ -13,3 +13,8 @@
    - iterating over the array and adding the duration in the max heap.
    - if the total duration exceeds the current element's deadline then we remove the biggest course we have added till now(p.top())
    - at the end the size of the max heap is the total course we can do
+
+4. [Min number of refueling stop](https://leetcode.com/problems/minimum-number-of-refueling-stops/submissions/)
+
+   - First go to the max distance we can go using the startFuel and push the gas value in the PQ which had distance less than startFuel.
+   - Once the max Distance is reached we add the highest values from the priority queue to the startFuel to increase the max distance
