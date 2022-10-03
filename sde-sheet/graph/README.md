@@ -29,3 +29,7 @@
    - Do DFS to know how many nodes can be reached
 
 7. [Sudoku solver](https://leetcode.com/problems/sudoku-solver/submissions/)
+
+8. [Shortest path](https://practice.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=shortest-path-in-weighted-undirected-graph)
+
+   - Same as dijsktra just maintaining a parent vector to trace back to the node 1 to get the path
